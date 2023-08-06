@@ -1,0 +1,7 @@
+# folders
+config/
+tutorials/
+logs/
+scripts/
+.vscode/
+__pycache__/
